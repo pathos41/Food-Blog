@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "data": {
+    "articleList": [{
+      "id": 6,
+      "title": "Aberdeen Food Court – Ajijiman Hanabi & Frappé Bliss",
+      "desc": "Aberdeen, Ajijiman Hanabi, dessert, donburi, food court, Frappe Bliss, grilled chicken don, Japanese, kimchi beef don, matcha delight, red bean, Richmond, shaved ice",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/05/may-19-2011-richmond-day-033.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "2",
+      "like": "1"
+    },
+    {
+      "id": 7,
+      "title": "Beard Papa’s",
+      "desc": "Black sesame, bread papa, cream puff, custard, eclair, green tea, Richmond",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/cream-puffs-and-bird-0041.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "3",
+      "like": "1"
+    },
+    {
+      "id": 8,
+      "title": "Chicco",
+      "desc": "Chicco, dessert, downtown, green tea, iced coffee, matcha, parfait, red bean, robson, Vancouver",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/chungdam-ahn-chicco-158.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "2",
+      "like": "1"
+    },
+    {
+      "id": 9,
+      "title": "Chungdam Ahn",
+      "desc": "Bulgolgi, Chungdam Ahn, downtown, grilled squid, haemul pajeon, izakaya, korean, seafood, seafood pancake, spicy rice cake, Vancouver",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/chungdam-ahn-chicco-030.jpg?w=768",
+      "gem": "2",
+      "author": "Tasty Affairs",
+      "comment": "2",
+      "like": "2"
+    },
+    {
+      "id": 10,
+      "title": "Qoola Frozen Yogurt (Metrotown)",
+      "desc": "Frozen yogurt, Metrotown, Qoola",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/hot-pot-and-froyo-friday-001-75.jpg?w=768&h=576",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "4",
+      "like": "1"
+    },
+    {
+      "id": 11,
+      "title": "Po King Seafood Restaurant",
+      "desc": "BBQ pork, chicken feet, chinese, Dim sum, har gow, ma lai gao, pastry, po king, rice roll, sesame ball, shrimp, siu mai, tapioca pudding",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/03/dim-sum-karaoke-074.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "2",
+      "like": "1"
+    },
+    {
+      "id": 12,
+      "title": "Ap Gu Jung Korean Restaurant",
+      "desc": "Ap gu jung, banchan, beef, hot pot, kimchi, robson, soup, spicy, tofu",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/03/feb-6-2011-downtown-trip-with-moomy-021.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "1",
+      "like": "1"
+    },
+    {
+      "id": 13,
+      "title": "La Bretagne Crêperie",
+      "desc": "Bretagne, buckwheat, cheese, crepe, creperie, downtown, galette, jervis, la, robson, salmon, sauce, savory, spinach, sweet, swiss",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/02/ikas-20th-birthday-015.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "3",
+      "like": "1"
+    },
+    {
+      "id": 14,
+      "title": "Guu Garden",
+      "desc": "Garden, Guu, izakaya, Japanese, kabocha, kanto, korokke, miso, oden, pizza, pumpkin",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/02/sayus-20th-birthday-001.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "2",
+      "like": "1"
+    },
+    {
+      "id": 15,
+      "title": "Top of Vancouver Revolving Restaurant",
+      "desc": "Croquette, dessert, fine dining, halibut, Harbour Centre, king crab legs, mango cheesecake, Revolving restaurant, salmon, steak, Top of Vancouver, Western",
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/02/dec-10-2010-harbour-centre-dinner-065.jpg?w=768",
+      "gem": "1",
+      "author": "Tasty Affairs",
+      "comment": "3",
+      "like": "1"
+    }]
+  }
+}

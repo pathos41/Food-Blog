@@ -1,0 +1,229 @@
+{
+	"success": true,
+	"data": {
+		"topicList" : [{
+			"id": 1,
+			"title": "Chinese",
+			"imgUrl": "https://i.ndtvimg.com/i/2016-06/chinese-625_625x350_81466064119.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Taiwanese",
+			"imgUrl": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_412,c_fill,g_auto,h_232,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F150520113507-best-taiwanese-food--1braised-pork-lurou-rice.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Japanese",
+			"imgUrl": "https://i.ndtvimg.com/i/2016-04/japanese-food-625_625x406_81461928658.jpg"
+		},
+		{
+			"id": 4,
+			"title": "Korean",
+			"imgUrl": "https://www.thespruceeats.com/thmb/G_uCw5KFcpOIySUJiEvh0OCeZIs=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-korean-bibimbap-recipe-2118765_20_preview-5b1ee284ba61770037c8ad38.jpeg"
+		},
+		{
+			"id": 5,
+			"title": "Izakaya",
+			"imgUrl": "https://cdn.vox-cdn.com/thumbor/7WPo4OLv9qcp_U4wSPYTm9nGVoo=/0x0:3000x2008/1200x800/filters:focal(1260x764:1740x1244)/cdn.vox-cdn.com/uploads/chorus_image/image/64132626/Katsu_131.0.jpg"
+		},
+		{
+			"id": 6,
+			"title": "Dim sum",
+			"imgUrl": "https://assets.vancouverisawesome.com/wp-content/uploads/2018/12/19123027/dim-sum-min.jpg"
+		},
+		{
+			"id": 7,
+			"title": "Yogurt",
+			"imgUrl": "https://www.yogurtinnutrition.com/wp-content/uploads/2017/06/do-you-know-what-the-most-nutrient-dense-snack-is-810x405.jpg"
+		},
+		{
+			"id": 8,
+			"title": "French",
+			"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jacques_Lameloise%2C_escab%C3%A8che_d%27%C3%A9crevisses_sur_gaspacho_d%27asperge_et_cresson.jpg"
+		},
+		{
+			"id": 9,
+			"title": "Pastry",
+			"imgUrl": "https://www.lifeloveandsugar.com/wp-content/uploads/2018/03/Berries-And-Cream-Mini-Puff-Pastry-Cakes1.jpg"
+		},
+    {
+      "id": 10,
+      "title": "Italian",
+      "imgUrl": "https://i.ndtvimg.com/i/2016-07/pasta_625x350_51467797057.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Swiss",
+      "imgUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/11/Switzerland-Cuisine.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Dessert",
+      "imgUrl": "https://images-gmi-pmc.edge-generalmills.com/7c1096c7-bfd0-4806-a794-1d3001fe0063.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Grill",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkDGSfwVmqp-Dd5YbC2kqvq36c7Dgr0dELBJU4k9w9bZ6Knrv&s"
+    }],
+
+		"articleList": [{
+			"id": 1,
+			"title": "Twisted Fork Bistro",
+			"desc": "Brunch, downtown, Eggs Benny, French, Frittata, Granville Street, Twisted Fork Bistro, Vancouver",
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2012/05/dsc08649.jpg?w=768&h=1024",
+			"gem": "3",
+			"author": "Tasty Affairs",
+			"comment": "1",
+			"like": "3"
+		},
+		{
+			"id": 2,
+			"title": "Frankie’s Italian Kitchen",
+			"desc": "Beef carpaccio, cassava, chicken linguine, downtown, elegant, Frankie's Italian Kitchen, Italian, pasta, romantic, seafood linguine, spaghetti, Vancouver",
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2012/02/dsc08041.jpg?w=768&h=576",
+			"gem": "1",
+			"author": "Tasty Affairs",
+			"comment": "2",
+			"like": "1"
+		},
+		{
+			"id": 3,
+			"title": "What8ver Cafe",
+			"desc": "Bubble tea, dessert, fried chicken, honey toast box, Richmond, Taiwanese, What8ver Cafe",
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2012/02/dsc07978.jpg?w=768&h=576",
+			"gem": "1",
+			"author": "Tasty Affairs",
+			"comment": "4",
+			"like": "1"
+		},
+		{
+			"id": 4,
+			"title": "Sushi Garden",
+			"desc": "Alaska roll, Crab loves papaya roll, Dynamite Roll, Japanese, Kingsway, salmon sashimi, Sushi Garden, Tempura",
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/06/may-27-2011-sushi-nightmarket-028.jpg?w=768",
+			"gem": "1",
+			"author": "Tasty Affairs",
+			"comment": "2",
+			"like": "1"
+		},
+		{
+			"id": 5,
+			"title": "Richmond’s Summer Night Market 2011",
+			"desc": "Bubble waffle, chicken nuggets, corn, fresh mango tapioca, grilled squid legs, mango shaved ice, Night market, Richmond, Summer, Taiwanese, takoyaki, turkey leg",
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/06/may-27-2011-sushi-nightmarket-065.jpg?w=768",
+			"gem": "1",
+			"author": "Tasty Affairs",
+			"comment": "2",
+			"like": "1"
+		}],
+
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+		},
+		{
+			"id": 2,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+		},
+		{
+			"id": 3,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		},
+		{
+			"id": 4,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+		}],
+    
+		"writerList": [{
+			"id": 1,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/02/dec-10-2010-harbour-centre-dinner-065.jpg?w=768",
+			"name": "Top of Vancouver",
+			"number": "Revolving restaurant"
+		},
+		{
+			"id": 2,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/02/sayus-20th-birthday-001.jpg?w=768",
+			"name": "Guu Garden",
+			"number": "Izakaya"
+		},
+		{
+			"id": 3,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/02/ikas-20th-birthday-015.jpg?w=768",
+			"name": "La Bretagne Crêperie",
+			"number": "Swiss"
+		},
+		{
+			"id": 4,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/03/feb-6-2011-downtown-trip-with-moomy-021.jpg?w=768",
+			"name": "Ap Gu Jung",
+			"number": "Korean"
+		},
+		{
+			"id": 5,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/03/dim-sum-karaoke-074.jpg?w=768",
+			"name": "Po King",
+			"number": "Dim sum"
+		},
+		{
+			"id": 6,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/hot-pot-and-froyo-friday-001-75.jpg?w=768&h=576",
+			"name": "Qoola Frozen Yogurt",
+			"number": "Yogurt"
+		},
+		{
+			"id": 7,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/chungdam-ahn-chicco-030.jpg?w=768",
+			"name": "Chungdam Ahn",
+			"number": "Korean"
+		},
+		{
+			"id": 8,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/chungdam-ahn-chicco-158.jpg?w=768",
+			"name": "Chicco",
+			"number": "Dessert"
+		},
+		{
+			"id": 9,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/04/cream-puffs-and-bird-0041.jpg?w=768",
+			"name": "Beard Papa’s",
+			"number": "Pastry"
+		},
+		{
+			"id": 10,
+			"imgUrl": "https://tastyaffairs.files.wordpress.com/2011/05/may-19-2011-richmond-day-033.jpg?w=768",
+			"name": "Ajijiman Hanabi",
+			"number": "Japanese"
+		},
+    {
+      "id": 11,
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/06/may-27-2011-sushi-nightmarket-065.jpg?w=768",
+      "name": "Richmond’s Night Market",
+      "number": "Taiwanese"
+    },
+    {
+      "id": 12,
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2011/06/may-27-2011-sushi-nightmarket-028.jpg?w=768",
+      "name": "Sushi Garden",
+      "number": "Japanese"
+    },
+    {
+      "id": 13,
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2012/02/dsc07978.jpg?w=768&h=576",
+      "name": "What8ver Cafe",
+      "number": "Taiwanese"
+    },
+    {
+      "id": 14,
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2012/02/dsc08041.jpg?w=768&h=576",
+      "name": "Frankie’s Italian Kitchen",
+      "number": "Italian"
+    },
+    {
+      "id": 15,
+      "imgUrl": "https://tastyaffairs.files.wordpress.com/2012/05/dsc08649.jpg?w=768&h=1024",
+      "name": "Twisted Fork Bistro",
+      "number": "French"
+    }]
+	}
+}
